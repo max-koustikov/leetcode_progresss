@@ -5,3 +5,5 @@ def containsDuplicate(self, nums) -> bool:
             return True
         seen.add(i)
     return False
+
+#test input
