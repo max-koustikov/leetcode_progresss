@@ -6,4 +6,4 @@ def containsDuplicate(self, nums) -> bool:
         seen.add(i)
     return False
 
-#test input
+#test inputwww
